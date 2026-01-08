@@ -1,0 +1,1 @@
+{"name":"Local: convert","url":"/Users/tungthanhdo/Documents/python/.cph/convert.py","tests":[{"id":1767833790277,"input":"3 9 13.5","output":"29 545.95"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tungthanhdo/Documents/python/.cph/convert.py","group":"local","local":true}

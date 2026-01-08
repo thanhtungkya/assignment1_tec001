@@ -1,0 +1,1 @@
+{"name":"Local: greet","url":"/Users/tungthanhdo/Documents/python/.cph/greet.py","tests":[{"id":1767832559166,"input":"Tung","output":"Hello Tung!"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/tungthanhdo/Documents/python/.cph/greet.py","group":"local","local":true}
